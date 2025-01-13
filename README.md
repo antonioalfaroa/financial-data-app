@@ -1,6 +1,10 @@
 
 Using the Financial Modeling Prep API, this app fetches and displays financial data for Apple Inc. Users can filter data by date range, sort it by specific fields, and view the data on both desktop and mobile devices. The app is fully responsive and features a scrollable table for smaller screens.
 
+The link to the deployed app:
+
+https://financial-data-app-self.vercel.app/
+
 How to Run the Project
 Clone the repository to your local machine.
 Navigate to the project directory:
